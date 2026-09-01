@@ -1,0 +1,9 @@
+{
+  "_comment": "Featured repos in README order. Stars, forks and language are refreshed from GitHub; these descriptions provide concise profile-card copy.",
+  "projects": [
+    {"repo": "randsight", "description": "Live Bayesian opponent-set inference and matchup guidance for Pokemon Showdown Random Battles."},
+    {"repo": "devpulse", "description": "A Hawkes and hidden semi-Markov model of developer commit timing, adversarially tested against real histories."},
+    {"repo": "rag-refusal", "description": "A retrieval pipeline that refuses unsupported answers and verifies every citation before responding."},
+    {"repo": "animecont", "description": "Manga research to cited video essay on local hardware: script, evaluation, voice, images, captions and MP4."}
+  ]
+}

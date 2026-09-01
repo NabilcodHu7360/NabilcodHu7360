@@ -1,0 +1,13 @@
+{
+  "title": "self-reported",
+  "_comment": "STARTING NUMBERS, NOT YOUR NUMBERS - Claude set these from your repos and your labs, which is not the same thing as you rating yourself. Go change them. Values are 0-100, 5-8 axes reads best, and a radar where everything sits at 90 is a circle and says nothing. Keep labels short or they collide at the bottom of the chart.",
+  "axes": [
+    { "label": "Python",   "value": 85 },
+    { "label": "PyTorch",  "value": 70 },
+    { "label": "Modeling", "value": 68 },
+    { "label": "Imaging",  "value": 72 },
+    { "label": "Evals",    "value": 66 },
+    { "label": "Polymers", "value": 65 },
+    { "label": "Web",      "value": 58 }
+  ]
+}
